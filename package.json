@@ -1,0 +1,12 @@
+{
+  "name": "michcoin",
+  "version": "1.0.0",
+  "description": "A small cryptocurrency that can be improved",
+  "main": "index.js",
+  "author": "Princewill Michael",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "object-hash": "^2.0.3"
+  }
+}
